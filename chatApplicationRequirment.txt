@@ -1,0 +1,9 @@
+This is a chat application.
+
+  Requirment of chat Application,
+  emoji.
+  Profile pic 
+setting
+Registration 
+login
+communication between the different user.
