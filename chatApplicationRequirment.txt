@@ -11,3 +11,6 @@ Dark mode
 color
 vibrant
 Success story of developer
+# Payment Option
+Send Money 
+Receive Money
