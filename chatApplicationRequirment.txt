@@ -7,3 +7,7 @@ setting
 Registration 
 login
 communication between the different user.
+Dark mode
+color
+vibrant
+Success story of developer
